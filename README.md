@@ -1,6 +1,8 @@
 # cptsd
 Start Date:  October 3, 2022
 
+find . -name ".DS_Store" -delete
+
 * [Bootstrap v5.3](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 * [GIT Tutorial](https://gitimmersion.com/lab_01.html)
 * [HTML Formatter](https://webformatter.com/html)
