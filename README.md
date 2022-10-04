@@ -11,3 +11,10 @@ To Make New Folder From Terminal: mkdir nameOfFolder
 * [HTML Formatter](https://webformatter.com/html)
 * [The Mac Terminal Commands Cheat Sheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
+Graphics Created Using [Canva](https://www.canva.com/)
+* logo-123-60.png
+* read-80-80.png
+* watch-80-80.png
+* support-80-80.png
+* contact-80-80.png
