@@ -60,7 +60,7 @@ body {
 }
 
 /*- Sets off-white color of nav-link text and down carets. -*/
-a.navLinkMain {color: #F1F0EA}
+a.navLinkMain {color: #F1F0EA; font-size: 24px;}
 
 a.navLinkMain:hover {color: #32A431;}
 
