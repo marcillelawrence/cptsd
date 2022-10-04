@@ -71,10 +71,20 @@ a.navLinkMain:focus-within {color: #32A431;}
 /*- Formats the search text prompt in the navbar. -*/
 .searchHereMain {color: #DE5307; font-size: 18px;}
 
+
+
+
+
 /*- Sets the background color for the navbar dropdown menus when expanded. -*/
 .dropdownMain {
 	background-color: #353C58;
 }
+
+
+
+
+
+
 
 /*- Sets the text color for the navbar dropdown links. -*//
 .dropdownMain>li>a {color: #F1F0EA;}
@@ -87,6 +97,8 @@ a.navLinkMain:focus-within {color: #32A431;}
 
 /*- Sets the text and background cover for the 'find support' navbar dropdown options. -*/
 .dropdownMain.dropdownSupport>li>a:hover {color: black; background-color: #eb2614;}
+
+.dropdown-item {color: #F1F0EA; line-height: 1.2rem;}
 
 
 
