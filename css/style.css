@@ -62,9 +62,32 @@ body {
 /*- Sets off-white color of nav-link text and down carets. -*/
 a.navLinkMain {color: #F1F0EA; font-size: 18px;}
 
+/*- Sets the hover color of the main navbar dropdown menu text links. -*/
 a.navLinkMain:hover {color: #32A431;}
 
+/*- Sets the main nav link focus-within font color. This is the color of the main dropdown menu text while the dropdown menu is open. -*/
+a.navLinkMain:focus-within {color: #32A431;}
+
+/*- Formats the search text prompt in the navbar. -*/
 .searchHereMain {color: #DE5307; font-size: 18px;}
+
+/*- Sets the background color for the navbar dropdown menus when expanded. -*/
+.dropdownMain {
+	background-color: #353C58;
+}
+
+/*- Sets the text color for the navbar dropdown links. -*//
+.dropdownMain>li>a {color: #F1F0EA;}
+
+/*- Sets the text and background color for the 'learn' navbar dropdown options. -*/
+.dropdownMain.dropdownLearn>li>a:hover {color: #353C58; background-color: #32A431;}
+
+/*- Sets the text and background color for the 'contact us & more' navbar dropdown options. -*/
+.dropdownMain.dropdownContact>li>a:hover {color: #353C58; background-color: #F7B500;}
+
+/*- Sets the text and background cover for the 'find support' navbar dropdown options. -*/
+.dropdownMain.dropdownSupport>li>a:hover {color: black; background-color: #eb2614;}
+
 
 
 
