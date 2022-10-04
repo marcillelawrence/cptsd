@@ -50,6 +50,10 @@ table {
 /*-- CUSTOM CSS -- WEBSITE-WIDE SETTINGS --*/
 body {
 	font-family: 'Josefin Sans', sans-serif;
+	background-image: url(../images/healingBackground.png);
+	background-position: center;
+	background-size: contain;
+	background-repeat: repeat;
 }
 
 /*-- CUSTOM CSS -- NAVBAR SETTINGS --*/
@@ -98,7 +102,10 @@ a.navLinkMain:focus-within {color: #32A431;}
 /*- Sets the text and background cover for the 'find support' navbar dropdown options. -*/
 .dropdownMain.dropdownSupport>li>a:hover {color: black; background-color: #eb2614;}
 
+/*-- Dropdown meny text formatting --*/
 .dropdown-item {color: #F1F0EA; line-height: 1.2rem;}
+
+
 
 
 
