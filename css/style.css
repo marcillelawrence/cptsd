@@ -54,6 +54,17 @@ body {
 
 /*-- CUSTOM CSS -- NAVBAR SETTINGS --*/
 
+/*- Sets deep brown color of Navbar -*/
 .navbarMain {
 	background-color: #5C2E1A;
 }
+
+/*- Sets off-white color of nav-link text and down carets. -*/
+a.navLinkMain {color: #F1F0EA}
+
+a.navLinkMain:hover {color: #32A431;}
+
+
+
+
+
